@@ -43,3 +43,5 @@ Testing
     Test5: Expected time=1-3 microseconds (ilab)
         A 2d array of chars 26*120 size
     
+    
+    What a great day. After viewing this bit of code, what a great day. 
